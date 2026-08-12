@@ -218,9 +218,10 @@ Performance changes should be justified by reproducible measurements rather than
 ├── examples/
 │   └── example.c
 ├── Makefile
+├── LICENSE
 └── README.md
 ```
 
 ## License
 
-No license has been added yet. Until one is chosen, normal copyright restrictions apply despite the repository being publicly visible.
+This project is licensed under the [MIT License](LICENSE). Copyright (c) 2026 Eddy Todd.
